@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ignite Lab Node.js | Notifier
+  Serviço de Notificação
 </h1>
 
 <p align="center">
