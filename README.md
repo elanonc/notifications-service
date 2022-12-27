@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 ## 1. Clone o projeto
-git clone git@github.com:omarcolombari/notifications-service.git
+git clone https://github.com/elanonc/notifications-service
 
 ## 2. Entre no diretório do projeto
 cd notifications-service
