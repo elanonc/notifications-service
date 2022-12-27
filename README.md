@@ -5,9 +5,10 @@
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-execucao">👨‍💻 Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-testes">⚙ Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-documentacao">📄 Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://respected-patch-b99.notion.site/Ignite-Lab-Node-js-9438dba525b047e6bf17c4e4bf3ce298">📚 Anotações Notion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.notion.so/Ignite-Lab-Node-js-9438dba525b047e6bf17c4e4bf3ce298">📚 Anotações Notion 🔒</a>
 </p>
 
 
@@ -27,9 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-## Como executar
-
-
+## 👨‍💻 Execução
 
 ```bash
 ## 1. Clone o projeto
@@ -48,16 +47,14 @@ npm run start:dev
 npx prisma migrate dev
 ```
 
-## Como executar os testes
-
-
+## ⚙ Testes
 
 ```bash
 ## 1. Execute o seguinte comando
   npm run test
 ```
 
-## Documentação da API
+## 📄 Documentação
 
 #### Envia uma notificação
 
