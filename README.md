@@ -71,7 +71,7 @@ npx prisma migrate dev
 #### Marca notificação como lida
 
 ```http
-  PATCH /notifications/id:/unread
+  PATCH /notifications/:id/unread
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -81,7 +81,7 @@ npx prisma migrate dev
 #### Marca uma notificação como não lida
 
 ```http
-  PATCH /notifications/id:/read
+  PATCH /notifications/:id/read
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
@@ -91,7 +91,7 @@ npx prisma migrate dev
 #### Cancela uma notificação enviada
 
 ```http
-  PATCH /notifications/id:/cancel
+  PATCH /notifications/:id/cancel
 ```
 
 | Parâmetro   | Tipo       | Descrição                                   |
